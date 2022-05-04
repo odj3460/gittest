@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/odj/git_teset/devel -DCMAKE_INSTALL_PREFIX=/home/odj/git_teset/install -G Unix Makefiles
